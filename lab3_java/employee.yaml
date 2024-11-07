@@ -1,0 +1,4 @@
+!!org.example.Employee
+name: Alice
+position: Developer
+salary: 60000.0
